@@ -2,6 +2,8 @@
 
 This is a simple web application built with Streamlit that translates English sentences to Hinglish (a mixture of Hindi and English). 
 
+![Translator App](screenshot.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
