@@ -1,6 +1,6 @@
-# Hinglish to Hindi Translator
+# Hindi to Hinglish Translator
 
-This is a simple web application built with Streamlit that translates Hinglish (a mixture of Hindi and English) sentences to Hindi. It also replaces Hinglish words with their English equivalents.
+This is a simple web application built with Streamlit that translates English sentences to Hinglish (a mixture of Hindi and English). 
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ streamlit run app.py
 
 2. Enter the sentences you want to translate and replace Hinglish words in.
 
-3. Click the "Translate" button.
+3. Click the "Ctrl + Enter" button.
 
 4. The translated and replaced sentences in Hindi will be displayed below the text area.
 
